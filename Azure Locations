@@ -1,0 +1,7 @@
+The global infrastructure of Azure is based on geographies, regions and data centers.
+
+Geographies are actually the countries. each country may have a specific requirement for a data center so having different geographies allow Azure to comply with national regulations.
+
+In each geography, there exists several regions. These regions are distrubuted across the geographies to house data centers.
+
+Data centers are the actual buildings that host physical infrastructure, such as the computers.
