@@ -5,3 +5,7 @@ Geographies are actually the countries. each country may have a specific require
 In each geography, there exists several regions. These regions are distrubuted across the geographies to house data centers.
 
 Data centers are the actual buildings that host physical infrastructure, such as the computers.
+
+Datacenters: A data center is a physical building that houses all the hardware necessary that make up Azure resources. The datacenters are secured and only people with credentials
+may enter the buildings. The data centers have their own isolated power supplies, dedicated networks and backup power generators. These back up systems make sure that Azure is 
+fault tolerant.
