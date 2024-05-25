@@ -7,3 +7,9 @@ application reauires a more powerful computer, the user needs to increate the co
   In this cloud service type, the user and the cloud provider share the responsibility over the infrastructure. Although the user has more control over the infrastructure, they also
 have more responsibility on the infrastructure.
   In Azure, an example to IaaS is Azure virtual machines.
+
+2. Platform as a Service 
+   Platform as a service also provides the necessary infrastructure to run applications as IaaS but as a user you do not need to create the underlying infrastructure. It is created 
+and managed by the cloud company. An example to PaaS in Azure is Azure App Service. Users are less flexible in utilizng the infrastructure but they also have less responsibility. So
+instead of managing the infrastructure, users can focus on running their applications. Particulary, PaaS services include scalabilty so users do not need to worry about increased
+traffic or need for more powerfuş compute sources.
