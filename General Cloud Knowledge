@@ -1,0 +1,9 @@
+Type of Cloud Services:
+
+1. Infrastructure as a Service
+   This tyoe of cloud offers users the necessary infrastructure to run, such as computers, networks, and storage. Users are able to create and run applications, but they also need to
+manage the infrastructure as well. For example, if the application receives too many traffic, the user is responsible for scaling up the infrastructure to mee the needs. Also, if the
+application reauires a more powerful computer, the user needs to increate the compute power of the infrastructure.
+  In this cloud service type, the user and the cloud provider share the responsibility over the infrastructure. Although the user has more control over the infrastructure, they also
+have more responsibility on the infrastructure.
+  In Azure, an example to IaaS is Azure virtual machines.
