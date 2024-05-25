@@ -13,3 +13,8 @@ have more responsibility on the infrastructure.
 and managed by the cloud company. An example to PaaS in Azure is Azure App Service. Users are less flexible in utilizng the infrastructure but they also have less responsibility. So
 instead of managing the infrastructure, users can focus on running their applications. Particulary, PaaS services include scalabilty so users do not need to worry about increased
 traffic or need for more powerfuş compute sources.
+
+3. Software as a Service
+  SaaS delivers software applications over the internet, on a subscription basis, eliminating the need for users to install, manage, or maintain software on their local machines
+Users have little or no responsibility over the infrastructure. You simply login and use the service. An example to SaaS is Outlook.com. Also Azure offers Microsoft 365
+and AWS offers Amazon Chime.
