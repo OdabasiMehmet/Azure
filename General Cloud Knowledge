@@ -18,3 +18,17 @@ traffic or need for more powerfuş compute sources.
   SaaS delivers software applications over the internet, on a subscription basis, eliminating the need for users to install, manage, or maintain software on their local machines
 Users have little or no responsibility over the infrastructure. You simply login and use the service. An example to SaaS is Outlook.com. Also Azure offers Microsoft 365
 and AWS offers Amazon Chime.
+
+Tyoe of Cloud
+
+1. Public Cloud
+The public cloud is a cloud computing model where services such as storage, compute power, and applications are delivered over the internet by third-party providers. These resources
+are shared among multiple users (tenants). In other wors, when you use public cloud, you share the underlying infrastructure with other users and companies.
+
+2. Private Cloud
+The private cloud is a cloud computing model where services and infrastructure are maintained on a private network exclusively for a single organization. When you use private cloud, 
+you do not share the underlying infrastructure with anyone else. This can be done on premises as well as on the cloud.
+
+3. Hybrid Cloud
+The hybrid cloud is a computing environment that combines both public and private clouds, allowing data and applications to be shared between them. This model provides greater 
+flexibility and optimization of existing infrastructure, security, and compliance requirements. This is the most used cloud type among all three.
