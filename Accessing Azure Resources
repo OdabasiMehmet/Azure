@@ -1,3 +1,6 @@
 How to Access Azure Resources
 There are multiple ways to access and manage Azure resources. No matter the method, users employ Azure Resource Manager (ARM) in order to deploy Azure resources and ARM uses templates
-in order to create and manage resources.
+in order to create and manage resources. The templates are XML documents written in Jason format.
+
+1. Azure Portal
+The first way to interact with Azure resources is making use of Azure Portal which is a web based interface.
