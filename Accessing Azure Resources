@@ -1,1 +1,3 @@
 How to Access Azure Resources
+There are multiple ways to access and manage Azure resources. No matter the method, users employ Azure Resource Manager (ARM) in order to deploy Azure resources and ARM uses templates
+in order to create and manage resources.
