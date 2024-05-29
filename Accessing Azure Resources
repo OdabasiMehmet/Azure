@@ -4,3 +4,11 @@ in order to create and manage resources. The templates are XML documents written
 
 1. Azure Portal
 The first way to interact with Azure resources is making use of Azure Portal which is a web based interface.
+
+2. Azure Power Shell
+With the use of AZ module, users can interact with Azure resources through Azure powershell. Azure powershell works on Windows, Linux, and 
+Mac OS. You just need to connect with your account credentials. Then you will access to resources within your subscription.
+
+3. Azure CLI
+Azure Command Line Interface is also a cross platform interface such as Azure Power Shell. You need to log in to work with Azure CLI. Then
+you need to enter AZ in front of all commands to get Azure CLI into work.
