@@ -12,3 +12,5 @@ Mac OS. You just need to connect with your account credentials. Then you will ac
 3. Azure CLI
 Azure Command Line Interface is also a cross platform interface such as Azure Power Shell. You need to log in to work with Azure CLI. Then
 you need to enter AZ in front of all commands to get Azure CLI into work.
+
+In the CLI, Azure offers an interactive mode in which users can access to the list of commands that is available.
